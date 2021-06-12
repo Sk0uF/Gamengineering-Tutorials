@@ -1,0 +1,17 @@
+{
+
+  "com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle": {
+    "default": {
+      "up": "playNorm",
+      "down": "playPushed",
+      "unpressedOffsetY":-10,
+
+      
+
+
+    }
+  }
+}
+
+
+

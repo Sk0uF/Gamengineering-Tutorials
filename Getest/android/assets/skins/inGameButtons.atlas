@@ -1,0 +1,62 @@
+
+inGameButtons.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jumpNorm
+  rotate: false
+  xy: 192, 2
+  size: 188, 398
+  orig: 188, 398
+  offset: 0, 0
+  index: -1
+jumpPushed
+  rotate: false
+  xy: 2, 2
+  size: 188, 398
+  orig: 188, 398
+  offset: 0, 0
+  index: -1
+leftNorm
+  rotate: false
+  xy: 1328, 3
+  size: 186, 397
+  orig: 186, 397
+  offset: 0, 0
+  index: -1
+leftPushed
+  rotate: false
+  xy: 572, 2
+  size: 187, 398
+  orig: 187, 398
+  offset: 0, 0
+  index: -1
+rightNorm
+  rotate: false
+  xy: 950, 2
+  size: 187, 398
+  orig: 187, 398
+  offset: 0, 0
+  index: -1
+rightPushed
+  rotate: false
+  xy: 761, 2
+  size: 187, 398
+  orig: 187, 398
+  offset: 0, 0
+  index: -1
+slideNorm
+  rotate: false
+  xy: 1139, 3
+  size: 187, 397
+  orig: 187, 397
+  offset: 0, 0
+  index: -1
+slidePushed
+  rotate: false
+  xy: 382, 2
+  size: 188, 398
+  orig: 188, 398
+  offset: 0, 0
+  index: -1
