@@ -32,7 +32,7 @@ The game has to be imported as a new project and then be built.
 
 ## Authors
 
-* By the Creator of Black Dodger
+* Konstantinos Skoufas, creator of Black Dodger.
 
 https://play.google.com/store/apps/details?id=com.blackdodger&hl=el
 
